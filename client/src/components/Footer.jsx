@@ -4,7 +4,7 @@ import logo from "../assets/MsLogo.png";
 
 function Footer() {
   return (
-    <footer className="bg-F4F8FD p-8">
+    <footer className="bg-[#bee0ec] p-8">
       <div className="container mx-auto flex flex-col lg:flex-row">
         {/* Column 1 */}
         <div className="flex-1 mb-4 lg:mb-0">
@@ -39,10 +39,10 @@ function Footer() {
         <div className="flex-1 ">
           <h2 className="text-xl font-bold mb-4">Contact Info</h2>
           <div className="text-md pl-2 text-gray-500">
-            <p className="mb-2">123 Main Street</p>
-            <p className="mb-2">City, State, 12345</p>
-            <p className="mb-2">Phone: (123) 456-7890</p>
-            <p className="mb-2">Email: info@example.com</p>
+            <p className="mb-2">Babhulgaon Dumala,</p>
+            <p className="mb-2">Maharashtra 414403 </p>
+            <p className="mb-2">Mobile No +91 83808 96997</p>
+            <p className="mb-2">Email- msindustries2120@gmail.com</p>
           </div>
         </div>
       </div>
