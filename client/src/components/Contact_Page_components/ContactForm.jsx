@@ -31,7 +31,7 @@ const ContactForm = () => {
       validationSchema={validationSchema}
       onSubmit={handleSubmit}
     >
-      <Form className="max-w-md mx-auto p-4 bg-white rounded ">
+      <Form className="w-full mx-auto  rounded ">
         <div className="mb-4">
           <label htmlFor="name" className="block  text-gray-700">
             Your Name *
